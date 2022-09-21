@@ -1,0 +1,29 @@
+
+body{
+    background-color: skyblue;
+    text-align: center;
+    font-size: x-large;
+    /* background-image: url('../images/washington_dc_temple.jpeg'); */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+h2{
+    background-color: white;
+    padding: 10px;
+    
+}
+
+img{
+    border-radius:;
+}
+/*.img{
+    color: rgb(47, 255, 238);
+    font-weight: bolder;
+    background-image: url('../images/washington_dc_temple.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    /*margin: none;*/
+} 

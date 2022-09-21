@@ -1,0 +1,47 @@
+body{
+    background-image: url('../aboutme/images/bâtiment.jpeg');
+    /*background-image: url("../aboutme/images/washington_dc_temple.jpeg");    background-repeat: no-repeat;*/
+    background-position: center;
+    background-color: skyblue;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+
+}
+
+h1,h2{
+    text-align: center;
+    color:greenyellow;
+    font-weight: bold;
+}
+
+.n{
+    text-decoration: underline;
+}
+img{
+    border-radius: 8px;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.p{
+    text-align: left;
+    text-decoration: underline;
+}
+.big{
+    font-size: x-large;
+    color: white;
+}
+.email{
+    color: greenyellow;
+}
+
+.a{
+    color: skyblue;
+}
+.copy{
+   color: skyblue;
+}
