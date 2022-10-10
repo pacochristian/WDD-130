@@ -1,9 +1,14 @@
-.main-para {
+a {
     font-size: 1.5em;
-    line-height: 1.5em;
 }
 
 #active {
     background-color: white;
     color: steelblue;
+}
+img {
+    width: 30%;
+}
+p {
+    width: 80%;
 }
