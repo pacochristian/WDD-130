@@ -7,8 +7,24 @@ a {
     color: steelblue;
 }
 img {
-    width: 30%;
+    width: 80%;
+    display: block;
+    margin: 0 auto;
 }
 p {
     width: 80%;
+}
+/* * {
+    border: 2px solid blue;
+} */
+h1 {
+    text-align: center;
+}
+nav, footer {
+    text-align: center;
+}
+main p {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center; 
 }
