@@ -13,12 +13,33 @@ h1{
     font-size: 400%;
 }
 
-ol.center{
-    display: inline-block;
+.center{
+    display: block;
     line-height: 1.8;
     font-size: larger;
     /* text-align: center; */
 }
+.center ol{
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 10px;
+}
+
+/* .center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  } */
+
+  /* /* .center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px; */
+  /* } */
+  
+  
 
 /* *{
     border: 2px solid blue;
