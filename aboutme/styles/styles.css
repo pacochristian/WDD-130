@@ -36,10 +36,23 @@ footer p {
     margin: 20px auto;
     padding: 25px;
 }
+p{
+    margin: 50px auto;
+}
 a:hover {
     background-color: white;
     color: steelblue;
 }
 h1 {
     margin: 50px 0;
+}
+a {
+    color: white;
+    padding: 25px;
+}
+nav {
+    padding: 25px;
+}
+body {
+    margin: 0
 }
