@@ -1,0 +1,37 @@
+body{
+    background-image: url("../images/w05_circles.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-color: #709CA7;
+}
+*{
+    border: 2px solid blue;
+}
+
+.image img{
+    background-color: #709CA7;
+    width: 20%;
+    margin: 10%;
+    margin-right: auto;
+    padding: 10px;
+    border: rgb(67, 63, 63) 10px solid;
+    border-radius: 50%;
+    /* display: ; */
+}
+/*  
+footer{
+    background-color: grey;
+    width: 10%;
+    display: inline;
+    padding: 500;
+} */
+
+div{
+    background-color: grey;
+    width: 300px;
+    height: 100px;
+    border: rgb(67, 63, 63) 10px solid;
+    padding: 50px;
+    /* margin-top: 500px; */
+}
