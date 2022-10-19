@@ -4,19 +4,21 @@ body{
     background-size: cover;
     background-position: center;
     background-color: #709CA7;
+    /* padding: auto; */
+    /* margin: 100%; */
 }
 *{
     border: 2px solid blue;
 }
 
-.image img{
+img{
+    position: static;
     background-color: #709CA7;
     width: 20%;
     margin: 10%;
     margin-right: auto;
     padding: 10px;
     border: rgb(67, 63, 63) 10px solid;
-    border-radius: 50%;
     /* display: ; */
 }
 /*  
@@ -28,10 +30,21 @@ footer{
 } */
 
 div{
-    background-color: grey;
-    width: 300px;
-    height: 100px;
-    border: rgb(67, 63, 63) 10px solid;
-    padding: 50px;
+    /* background-color: grey; */
+    /* width: 500px; */
+    /* height: 100px; */
+    /* border-radius: rgb(67, 63, 63) 10px solid; */
+    /* padding: 10px; */
     /* margin-top: 500px; */
+    /* margin-right: auto; */
+    /* align-items: center; */
+    /* border-radius: 50%; */
+}
+/* .container{
+    background-color: #709CA7;
+    height: 100px;
+    border-radius: 50%;
+} */
+img{
+    border-radius: 50px;
 }

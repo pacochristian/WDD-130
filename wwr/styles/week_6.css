@@ -1,0 +1,17 @@
+h2{
+    color: red;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    /* padding: 10%; */
+    /* z-index: 2; */
+}
+*{
+    border: 2px solid blue;
+}
+div{
+    display: grid;
+    grid-template-columns: 200px;
+
+}
